@@ -3,5 +3,5 @@ Snake Game is a classic video game in which players control a snake, guiding it 
 # Screenshot
 ![Snake game image](src/Snake_game.png)
 # Video
-https://www.youtube.com/watch?v=jjJFmfHt1xE
+https://www.youtube.com/watch?v=jjJFmfHt1xE /n
 Cre: Bro code
